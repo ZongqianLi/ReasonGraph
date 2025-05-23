@@ -1,4 +1,4 @@
-# ReasonGraph: Visualisation of Reasoning Methods and Extended Inference Paths
+# [ACL 2025 Demo] ReasonGraph: Visualisation of Reasoning Methods and Extended Inference Paths
 
 <p align="center">
   <b>Language</b>
@@ -47,6 +47,7 @@
 
 ## 🚀 News
 
+- **[2025.05.23]** Accepted by ACL 2025 Demo!
 - **[2025.03.24]** ⭐ Support visualisation of **long outputs** from **reasoning models**!!!
 - **[2025.03.18]** Support more LLM providers and models. Support two languages, English and Chinese.
 - **[2025.03.18]** Rate and provide comments in the [questionnaire](https://forms.office.com/r/ebBSAKqHwj) (takes about 30 seconds).
