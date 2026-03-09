@@ -243,14 +243,23 @@ google-generativeai==0.8.4
 ## 📌 Citation
 
 ```
-@misc{li2025reasongraphvisualisationreasoningpaths,
-      title={ReasonGraph: Visualisation of Reasoning Paths}, 
-      author={Zongqian Li and Ehsan Shareghi and Nigel Collier},
-      year={2025},
-      eprint={2503.03979},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2503.03979}, 
+@inproceedings{li-etal-2025-reasongraph,
+    title = "{R}eason{G}raph: Visualization of Reasoning Methods and Extended Inference Paths",
+    author = "Li, Zongqian  and
+      Shareghi, Ehsan  and
+      Collier, Nigel",
+    editor = "Mishra, Pushkar  and
+      Muresan, Smaranda  and
+      Yu, Tao",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-demo.14/",
+    doi = "10.18653/v1/2025.acl-demo.14",
+    pages = "140--147",
+    ISBN = "979-8-89176-253-4",
 }
 ```
 
